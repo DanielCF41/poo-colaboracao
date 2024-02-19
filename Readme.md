@@ -45,13 +45,10 @@ git log --pretty=format:"%h - %an, %ar : %s"
 ### git commit
 Serve para comitar um arquivo/diretório
 
-- Comitar um arquivo: ```bash
-  "git commit meu_arquivo.txt" ```
+- Comitar um arquivo: ``` "git commit meu_arquivo.txt" ```
 
-- Comitar vários arquivos: ```bash
-  "git commit meu_arquivo.txt meu_outro_arquivo.txt"```
-- Comitar informando mensagem: ```bash
-  "git commit meuarquivo.txt -m "minha mensagem de commit" ```
+- Comitar vários arquivos: ``` "git commit meu_arquivo.txt meu_outro_arquivo.txt"```
+- Comitar informando mensagem: ```"git commit meuarquivo.txt -m "minha mensagem de commit" ```
 
 ### git clone
 Serve para Clonar um repositório remoto já existente
