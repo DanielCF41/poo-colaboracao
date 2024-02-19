@@ -17,4 +17,4 @@ $ git status
 Faz o snapshot de um arquivo na preparação para versionamento
 ```bash
 $ git add
-``
+```
