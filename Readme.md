@@ -1,3 +1,7 @@
 # Aula de POO
 
-Joana da Silva
+Alunos:
+- Luan de Barros
+- Jamilly
+- Joana da Silva
+
