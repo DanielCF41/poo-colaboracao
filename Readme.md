@@ -1,2 +1,4 @@
 # Aula de POO
-Daniel Cardoso Fernandes
+- Daniel 
+- Jamilly
+
