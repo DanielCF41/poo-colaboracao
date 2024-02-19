@@ -1,5 +1,4 @@
 # Aula de POO
-<<<<<<< HEAD
 
 Alunos:
 - Luan de Barros
