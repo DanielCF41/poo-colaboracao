@@ -1,0 +1,5 @@
+No exemplo do slide anterior vimos que o gradle imprime algumas
+informações sobre o processo ao executar a aplicação
+Caso queira omitir essas informações, adicione as linhas abaixo dentro do
+arquivo chamado gradle.properties que pode estar dentro do diretório
+do projeto ou em $HOME/.gradle
